@@ -1,7 +1,10 @@
+
 <html>
 
-	<head></head>
+	<head>
+		<title></title>	
+	</head>
 	<body>
-		customer form coming soon....
+	
 	</body>
 </html>
